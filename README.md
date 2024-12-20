@@ -1,8 +1,12 @@
-creacion proyecto
+Proyecto en Clase
 
 Nombre: Cristhian   Ami
-![Captura de pantalla 2024-12-06 095636](https://github.com/user-attachments/assets/3d51fc02-9350-4d37-8da4-f7d56d979b30)
-![Captura de pantalla 2024-12-06 095621](https://github.com/user-attachments/assets/f36e6e67-7eac-4204-a634-3c9a4dc2f8e6)
+![Captura de pantalla 2024-12-13 095516](https://github.com/user-attachments/assets/77ab0c5e-c29b-4dcc-bab5-f1f5d827e47d)
+![Captura de pantalla 2024-12-13 095554](https://github.com/user-attachments/assets/488635a9-49e9-46de-889b-88b5f3c13705)
+![Captura de pantalla 2024-12-13 095624](https://github.com/user-attachments/assets/eb7acf63-6949-4a82-abfc-e7c9d738f3ad)
+
+
+
 
 
 
