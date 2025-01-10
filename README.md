@@ -1,7 +1,8 @@
 Proyecto en Clase
 
 Nombre: Cristhian   Ami
-![Captura de pantalla 2025-01-10 100142](https://github.com/user-attachments/assets/0fa3d123-bd80-419d-a0a1-0c917e7728ba)
+![Captura de pantalla 2025-01-10 100142](https://github.com/user-attachments/assets/9941a478-2c98-4266-b2d5-bc8802dfba70)
+
 
 
 
