@@ -2,7 +2,7 @@
 
 const configs = {
     server: {
-        url: "http://localhost:3000",
+        url: "http://localhost:3001",
     },
     routes: {
         teacher: {
@@ -10,7 +10,9 @@ const configs = {
             create: "/teacher/create",
             update: "/teacher/update",
             delete: "/teacher/delete",
-
+        },
+        initial: {
+            login: "/initial/login",
         },
     },
 };
