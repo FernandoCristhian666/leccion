@@ -19,7 +19,7 @@ const Credentials = sequelize.define(
     },
     {
         timestamps: false,
-        tableName: "teacher",
+        tableName: "credentials",
     }
 );
 module.exports = Credentials;
